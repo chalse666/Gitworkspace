@@ -1,4 +1,4 @@
-debug branch66666
+daebug branch66666
 hotfix-branch:
 第一次修改hot
 hello world 1
@@ -7,4 +7,4 @@ hello world 3+666
 123
 asfsf
 sadsadfasf
-第2次修改新增
+第2次修改新增  master update1
